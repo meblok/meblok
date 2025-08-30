@@ -1,7 +1,7 @@
 - 👋 Hola, soy @meblok mi nombre es Alfonso Reyes
 - soy de Viña del Mar Chile
 - Ingeniero Mecanico en Mantenimiento Industrial, aprendiz front-end y ruby on rails y de la vida.
-- 👀 me dedico a aprender de tecnologia informatica para complementar mis conocimientos, AWS, EC2, Github, RoR, Emprendimiento.
+- 👀 me dedico a aprender de tecnologia informatica para complementar mis conocimientos Github, RoR, Emprendimiento.
 
  
 <!---
